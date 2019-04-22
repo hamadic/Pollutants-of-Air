@@ -1,0 +1,2 @@
+# Pollutants-of-Air
+This project estimates the relationship between Carbon Monoxide and three other major polluters identified by the EPA. The significance of this project comes from its relevance to environmental protection polices. For example, the US. Environmental Protection Agency works to ensure that Americans have clean air, land and water. one of its tasks is to propose greenhouse gas guidelines for states to develop plans to address emissions from existing coal-fired power and other gases.
